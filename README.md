@@ -1,6 +1,6 @@
 # Hi, I'm Damilola Olukoju 👋
 
-### IT Professional | Software Developer | AI Automation & Digital Transformation Enthusiast
+### Software Developer | AI Automation & Digital Transformation Enthusiast
 
 I'm passionate about using technology to solve real-world problems, improve business processes, and build smarter digital solutions.
 
@@ -12,8 +12,6 @@ With a background in software development and hands-on experience in IT support,
 - 💻 Developing web applications using React, TypeScript, Node.js, and JavaScript.
 - ⚙️ Exploring AI-assisted development and workflow automation.
 - 📈 Building practical projects that demonstrate how technology can improve business operations.
-
-### 🛠️ Technologies & Tools
 
 ### 🛠️ Technologies & Tools
 
