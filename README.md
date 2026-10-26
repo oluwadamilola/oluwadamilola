@@ -30,7 +30,7 @@ I'm documenting my journey into AI automation and digital transformation through
 ### 🤝 Let's Connect
 
 - **GitHub:** [Explore my repositories](https://github.com/)
-- **LinkedIn:** [Connect with me]((https://www.linkedin.com/in/olukojudamilola/))
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/olukojudamilola/)
 
 ---
 
